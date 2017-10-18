@@ -1,0 +1,4 @@
+*ckpt*
+*.pyc
+.idea
+.ipynb_checkpoints/
