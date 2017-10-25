@@ -30,3 +30,4 @@ rm inception_v4_2016_09_09.tar.gz
 rm inception_resnet_v2_2016_08_30.tar.gz
 rm ens_adv_inception_resnet_v2_2017_08_18.tar.gz
 rm tf-densenet169.tar.gz
+rm adv_inception_v3_2017_08_18.tar.gz
