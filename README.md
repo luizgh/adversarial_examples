@@ -1,6 +1,6 @@
 # Box-constrained attacks (adversarial examples) in Tensorflow
 
-This repository contains the code for the targeted and non-targeted attacks used by team Placeholder ([Luiz Gustavo Hafemann](https://github.com/luizgh) and [Le Thanh nguyen-meidine](https://github.com/Natlem) for the NIPS 2017 adversarial attacks/defenses competition.
+This repository contains the code for the targeted and non-targeted attacks used by team Placeholder ([Luiz Gustavo Hafemann](https://github.com/luizgh) and [Le Thanh Nguyen-Meidine](https://github.com/Natlem) for the NIPS 2017 adversarial attacks/defenses competition.
 
 Our attacks were based on a formulation of the problem that minimizes the probability of the correct class (or maximize the probability of a target class) considering the distortion (L_infinity norm of the adversarial noise) as a hard constraint. For this we used two algorithms: L-BFGS with box-constraints and projected Stochastic Gradient Descent. 
 
