@@ -4,7 +4,7 @@ Usage:
 
 First download the checkpoints (6 models, ~1GB):
 ```
-./download_checkpoints.sh #do
+./download_checkpoints.sh
 ```
 
 Run it:
